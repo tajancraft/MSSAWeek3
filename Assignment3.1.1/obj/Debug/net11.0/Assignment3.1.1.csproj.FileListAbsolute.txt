@@ -1,0 +1,16 @@
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.AssemblyInfoInputs.cache
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.AssemblyInfo.cs
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.csproj.CoreCompileInputs.cache
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.exe
+c:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.deps.json
+c:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.runtimeconfig.json
+c:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.runtimeconfig.dev.json
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.dll
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\bin\Debug\net11.0\Assignment3.1.1.pdb
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.dll
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\refint\Assignment3.1.1.dll
+C:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.pdb
+c:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignment3.1.1.genruntimeconfig.cache
+c:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\ref\Assignment3.1.1.dll
+c:\Users\YK\source\repos\MSSA Assignments\MSSAWeek3\Assignment3.1.1\obj\Debug\net11.0\Assignme.325E4237.Up2Date
