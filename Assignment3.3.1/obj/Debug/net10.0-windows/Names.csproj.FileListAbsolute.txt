@@ -1,0 +1,17 @@
+C:\Users\YK\source\repos\Visual Studio\Names\bin\Debug\net10.0-windows\Names.exe
+C:\Users\YK\source\repos\Visual Studio\Names\bin\Debug\net10.0-windows\Names.deps.json
+C:\Users\YK\source\repos\Visual Studio\Names\bin\Debug\net10.0-windows\Names.runtimeconfig.json
+C:\Users\YK\source\repos\Visual Studio\Names\bin\Debug\net10.0-windows\Names.dll
+C:\Users\YK\source\repos\Visual Studio\Names\bin\Debug\net10.0-windows\Names.pdb
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.Form1.resources
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.csproj.GenerateResource.cache
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.AssemblyInfoInputs.cache
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.AssemblyInfo.cs
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.csproj.CoreCompileInputs.cache
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.dll
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\refint\Names.dll
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.pdb
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.genruntimeconfig.cache
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\ref\Names.dll
+C:\Users\YK\source\repos\Visual Studio\Names\obj\Debug\net10.0-windows\Names.csproj.Up2Date
