@@ -15,12 +15,12 @@ Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
 int[] nums = new int[]{2,7,11,15};
 Console.Write("Enter the target number : \n");
 int targetNum = int.Parse(Console.ReadLine());
-int[] indexSum = TwoIndicesToTarget(nums, targetNum);
+int[] final = TwoIndicesToTarget(nums, targetNum);
 
-if (indexSum.Length == 0)
+if (final.Length == 0)
     Console.WriteLine($"No matches found.");
 else    
-    Console.WriteLine($"[{string.Join(",", indexSum)}]");
+    Console.WriteLine($"[{string.Join(",", final)}]");
 
 int[] TwoIndicesToTarget(int[] nums, int target)
 {
@@ -29,9 +29,9 @@ int[] TwoIndicesToTarget(int[] nums, int target)
         for (int j = i + 1; j < nums.Length; j++)
         {
             if ((nums[i] + nums[j] == target))
-        {
-            return new[] { i, j };
-        }
+            {
+                return new[] { i, j };
+            }
         }
     }
     return Array.Empty<int>();
